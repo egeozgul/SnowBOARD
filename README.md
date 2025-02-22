@@ -1,5 +1,5 @@
 # SnowBOARD
-This is an open source prototyping module that allows building embedded system projects without soldering or complex wiring. Dedicated connectors and ports are designed that allow connecting peripherals with only a socket required with minimal wiring and no soldering. Additional features include an SD card slot, battery power management circuit, type-c usb interface, and a usb to uart converter which allows USB debugging and USB firmware uploading.
+This is an open-source prototyping module designed to simplify the development of embedded system projects by eliminating the need for soldering or complex wiring. It features dedicated connectors and ports that enable seamless peripheral connections with just a socket, requiring minimal wiring and no soldering. Additional functionalities include an SD card slot, a battery power management circuit, a USB Type-C interface, and a USB-to-UART converter, which facilitates USB debugging and firmware uploading.
 
 
 <p align="center">
